@@ -54,4 +54,9 @@ public:
 			parent->rightchild = newNode; // Make the right child of the point to the new node
 		}
 	}
+
+	void search(string element, Node*& parent, Node*& currentNode)
+	{
+		
+	}
 };
